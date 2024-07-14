@@ -1,5 +1,5 @@
 # Mobile Proxies
-[![Evomi Mobile Proxies Banner](https://framerusercontent.com/images/N2DKLlKGPmYMPMIryD9Kj92O0.png?scale-down-to=1024&lossless=1)](https://my.evomi.com)
+[![Evomi Mobile Proxies Banner](https://my.evomi.com/images/brand/cta.png)](https://my.evomi.com)
 
 Welcome to Evomi's Mobile Proxies repository! This project demonstrates how to use our high-quality mobile proxies in various programming languages.
 
