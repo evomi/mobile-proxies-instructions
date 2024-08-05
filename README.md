@@ -1,5 +1,5 @@
 # Mobile Proxies
-[![Evomi Mobile Proxies Banner](https://my.evomi.com/images/brand/cta.png)](https://my.evomi.com)
+[![Evomi Mobile Proxies Banner](https://my.evomi.com/images/brand/cta.png)]([https://my.evomi.com](https://evomi.com?utm_source=github&utm_medium=banner&utm_campaign=github_mobile))
 
 Welcome to Evomi's Mobile Proxies repository! This project demonstrates how to use our high-quality mobile proxies in various programming languages.
 
