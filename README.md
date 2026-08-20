@@ -17,7 +17,7 @@ export proxy_password=your_password
 Replace `your_username` and `your_password` with the credentials provided by Evomi.
 
 ## Protocol
-Please note, while these examples demonstrate the proxies with the http protocl, Evomi offers support for **HTTP HTTPS and SOCKS5**, aswell as SOCKS4 if required.
+Please note, while these examples demonstrate the proxies over HTTP, Evomi also supports HTTPS and SOCKS5.
 
 
 ## Usage Examples
@@ -30,22 +30,22 @@ curl -x mp.evomi.com:3000 -U "${proxy_username}:${proxy_password}" https://ip.ev
 
 ### Python
 ```bash
-python python_example_mp.py
+python python-example-mp.py
 ```
 
 ### Node.js
 ```bash
-node nodejs_example_mp.js
+node nodejs-example-mp.js
 ```
 
 ### PHP
 ```bash
-php php_example_mp.php
+php php-example-mp.php
 ```
 
 ### Go
 ```bash
-go run go_example_mp.go
+go run go-example-mp.go
 ```
 
 ### Java
