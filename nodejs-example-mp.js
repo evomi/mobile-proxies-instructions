@@ -16,7 +16,7 @@ const proxy = {
     host: 'mp.evomi.com',
     port: 3000,
     auth: {
-        username: `customer-${proxyUsername}`,
+        username: proxyUsername,
         password: proxyPassword
     }
 };
